@@ -8,3 +8,4 @@ RAB
 
 $ ./iniciales_dificil
      thomas     gordon black
+TGB
