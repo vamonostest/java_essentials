@@ -24,7 +24,7 @@ public class Input {
 		Float retFloat = Float.MAX_VALUE;
 		while(retFloat.equals(Float.MAX_VALUE)) {
 			try {
-				float f = sc.nextInt();
+				float f = sc.nextFloat();
 				retFloat = f;
 			}catch(InputMismatchException ime) {
 				System.out.println("Wrong format for float. input correct float: ");
