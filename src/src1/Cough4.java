@@ -5,6 +5,7 @@ public class Cough4 {
 	public static void main(String args[])
 	{
 		cough(3);
+		sneeze(4);
 	}
 
 	public static void cough(int n)
